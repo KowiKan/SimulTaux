@@ -2,6 +2,7 @@ channels:
   - defaults
 dependencies:
   - ipywidgets
+  - ipympl
   - matplotlib
   - numpy
   - pandas
